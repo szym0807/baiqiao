@@ -10,7 +10,7 @@ tags:
 generated_by: baiqiao-sync
 source_file: "wechat_article_high-eq-know-when-not-to-speak.md"
 ---
-![什么是情商高？不是会说话，是知道什么时候不说](/assets/high-eq-know-when-not-to-speak-illustrations/00-cover-optimized.jpg)
+![什么是情商高？不是会说话，是知道什么时候不说](/assets/high-eq-know-when-not-to-speak-illustrations/00-cover.png)
 
 职场上，很多人把高情商理解成嘴甜、会接话、能把场面说得热热闹闹。
 
@@ -23,8 +23,6 @@ source_file: "wechat_article_high-eq-know-when-not-to-speak.md"
 <!-- more -->
 
 ## 01 会议上，不抢最后一句
-
-![什么是情商高？不是会说话，是知道什么时候不说 · 01](/assets/high-eq-know-when-not-to-speak-illustrations/01-meeting-listen-first.png)
 
 开会时，最常见的误区，就是把“多发言”当成“有存在感”。
 
@@ -40,8 +38,6 @@ source_file: "wechat_article_high-eq-know-when-not-to-speak.md"
 
 ## 02 汇报时，不拿猜测充答案
 
-![什么是情商高？不是会说话，是知道什么时候不说 · 02](/assets/high-eq-know-when-not-to-speak-illustrations/02-report-verify-first.png)
-
 汇报现场，人最容易因为紧张而多说。
 
 领导问到一个暂时不确定的数据，有人怕显得准备不足，就先给出一个模糊数字；项目还没有结论，就用肯定语气包装；涉及其他部门的情况，也顺手替别人作了承诺。
@@ -56,8 +52,6 @@ source_file: "wechat_article_high-eq-know-when-not-to-speak.md"
 
 ## 03 冲突现场，不急着递刀
 
-![什么是情商高？不是会说话，是知道什么时候不说 · 03](/assets/high-eq-know-when-not-to-speak-illustrations/03-conflict-facts-not-fire.png)
-
 办公室发生争执时，围观的人常常比当事人更容易冲动。
 
 有人急着替一方评理，有人顺手翻出另一方以前的失误，还有人用一句“他一直就这样”把矛盾从一件事扩大成对一个人的判断。
@@ -71,8 +65,6 @@ source_file: "wechat_article_high-eq-know-when-not-to-speak.md"
 当然，沉默也有边界。遇到明显的人身攻击、歧视、违规风险或安全问题，该制止、该记录、该上报时，不能把“不说话”当成高情商。
 
 ## 04 开口前，先过三道门
-
-![什么是情商高？不是会说话，是知道什么时候不说 · 04](/assets/high-eq-know-when-not-to-speak-illustrations/04-three-gates-before-speaking.png)
 
 真正的分寸，不靠天赋，靠的是开口前多停一秒。
 

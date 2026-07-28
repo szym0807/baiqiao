@@ -28,8 +28,6 @@ source_file: "wechat_article_rendaozhongnian_nianqing.md"
 
 ## 01 情绪稳的人，脸上少一层苦相
 
-![人到中年，为什么你看起来比较年轻？ · 01](/assets/rendaozhongnian_nianqing-illustrations/01-qingxu-wen.png)
-
 一个人有没有被生活拖垮，先看脸。
 
 有些人明明年纪不大，脸上却总像压着一层灰。说话急，眼神散，眉头常常皱着，别人一句话还没说完，他心里的火已经先起来了。
@@ -51,8 +49,6 @@ source_file: "wechat_article_rendaozhongnian_nianqing.md"
 情绪稳下来，人就不容易垮。
 
 ## 02 睡得好的人，身体有底气
-
-![人到中年，为什么你看起来比较年轻？ · 02](/assets/rendaozhongnian_nianqing-illustrations/02-shuimian.png)
 
 中年以后，睡眠就是一个人的底牌。
 
@@ -76,8 +72,6 @@ source_file: "wechat_article_rendaozhongnian_nianqing.md"
 
 ## 03 少内耗的人，眼神不会浑浊
 
-![人到中年，为什么你看起来比较年轻？ · 03](/assets/rendaozhongnian_nianqing-illustrations/03-neihao.png)
-
 人到中年，最伤人的不是忙，而是内耗。
 
 白天忙工作，晚上忙想事。别人一句话，你想三天；一次冷落，你反复琢磨；一段关系不舒服，你舍不得断，又天天委屈。
@@ -99,8 +93,6 @@ source_file: "wechat_article_rendaozhongnian_nianqing.md"
 那种亮，不是少年人的天真，而是中年人终于不跟自己较劲后的清明。
 
 ## 04 有边界的人，活得不拧巴
-
-![人到中年，为什么你看起来比较年轻？ · 04](/assets/rendaozhongnian_nianqing-illustrations/04-bianjie.png)
 
 真正看起来年轻的人，身上往往有一种轻。
 

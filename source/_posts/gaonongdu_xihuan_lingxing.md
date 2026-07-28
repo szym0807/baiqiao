@@ -34,8 +34,6 @@ source_file: "wechat_article_gaonongdu_xihuan_lingxing.md"
 
 ## 01 喜欢太满，世界会变窄
 
-![高浓度的喜欢非常伤害灵性 · 01](/assets/gaonongdu_xihuan_lingxing-illustrations/01-shiye-bianzhai.png)
-
 一个人开始过度喜欢另一个人时，最明显的变化，不是变得浪漫。
 
 而是变得狭窄。
@@ -78,8 +76,6 @@ source_file: "wechat_article_gaonongdu_xihuan_lingxing.md"
 
 ## 02 投射太深，就会爱上幻影
 
-![高浓度的喜欢非常伤害灵性 · 02](/assets/gaonongdu_xihuan_lingxing-illustrations/02-toushe-huanying.png)
-
 很多时候，我们以为自己是在爱一个人。
 
 其实，我们是在爱自己心里的想象。
@@ -121,8 +117,6 @@ source_file: "wechat_article_gaonongdu_xihuan_lingxing.md"
 因为你爱的，已经不是一个真实的人，而是一个被你幻想加重过的人。
 
 ## 03 爱里不能丢主权
-
-![高浓度的喜欢非常伤害灵性 · 03](/assets/gaonongdu_xihuan_lingxing-illustrations/03-biediu-zhuquan.png)
 
 一段关系最危险的时刻，不是争吵。
 
@@ -171,8 +165,6 @@ source_file: "wechat_article_gaonongdu_xihuan_lingxing.md"
 否则，再浓烈，也只是一场情绪透支。
 
 ## 04 好的喜欢，是松开的手
-
-![高浓度的喜欢非常伤害灵性 · 04](/assets/gaonongdu_xihuan_lingxing-illustrations/04-songkai-shou.png)
 
 很多人听到这里，会误会。
 

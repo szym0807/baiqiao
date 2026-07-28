@@ -32,8 +32,6 @@ source_file: "wechat_article_keyi_kongzhi_changxiang.md"
 
 ## 01 长相不是五官，是长期状态
 
-![你可以控制自己的长相 · 01](/assets/keyi_kongzhi_changxiang-illustrations/01-zhuangtai.png)
-
 人到了一定年纪，真正拉开差距的，往往不是五官。
 
 是那种说不清的状态。
@@ -59,8 +57,6 @@ source_file: "wechat_article_keyi_kongzhi_changxiang.md"
 状态变久了，别人看到的就不再只是你的脸，而是你这些年过日子的方式。
 
 ## 02 情绪会在脸上形成惯性
-
-![你可以控制自己的长相 · 02](/assets/keyi_kongzhi_changxiang-illustrations/02-qingxu.png)
 
 很多人以为情绪只是在心里发生。
 
@@ -93,8 +89,6 @@ source_file: "wechat_article_keyi_kongzhi_changxiang.md"
 你以为它只是过去了，其实它只是换了个地方住下。
 
 ## 03 你每天看什么，就在喂哪张脸
-
-![你可以控制自己的长相 · 03](/assets/keyi_kongzhi_changxiang-illustrations/03-zhuyili.png)
 
 一个人的脸，还会被注意力喂养。
 
@@ -129,8 +123,6 @@ source_file: "wechat_article_keyi_kongzhi_changxiang.md"
 一个人一旦太用力，哪怕什么都没说，别人也能从脸上看出他累。
 
 ## 04 真正能改的，是生活秩序
-
-![你可以控制自己的长相 · 04](/assets/keyi_kongzhi_changxiang-illustrations/04-zhixu.png)
 
 说到这里，不是让你天天照镜子，检查自己有没有苦相。
 

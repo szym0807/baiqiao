@@ -32,8 +32,6 @@ source_file: "wechat_article_tian-dao-suiyuan-xiyuan-bupanyuan.md"
 
 ## 01 随缘：允许关系有来有去
 
-![人到中年才读懂《天道》：随缘，惜缘，不攀缘 · 01](/assets/tian-dao-suiyuan-xiyuan-bupanyuan-illustrations/01-suiyuan.png)
-
 随缘，不是什么都不做，更不是把人生交给运气。
 
 它是尽过心、做过事以后，依然允许结果不完全照自己的想法发生。
@@ -56,8 +54,6 @@ source_file: "wechat_article_tian-dao-suiyuan-xiyuan-bupanyuan.md"
 
 ## 02 惜缘：把真心留给在乎你的人
 
-![人到中年才读懂《天道》：随缘，惜缘，不攀缘 · 02](/assets/tian-dao-suiyuan-xiyuan-bupanyuan-illustrations/02-xiyuan.png)
-
 随缘，不等于随便；看淡，也不等于怠慢。
 
 有些人嘴上说着“一切随缘”，实际上只是习惯了忽略。他们把别人的包容当成理所当然，把熟悉的人排在所有事情之后，直到关系冷了，才想起曾经的好。
@@ -77,8 +73,6 @@ source_file: "wechat_article_tian-dao-suiyuan-xiyuan-bupanyuan.md"
 人到中年越来越懂得，能够彼此惦记、互相体谅、安稳相处，本身就是难得的福气。
 
 ## 03 不攀缘：不强求不属于自己的关系
-
-![人到中年才读懂《天道》：随缘，惜缘，不攀缘 · 03](/assets/tian-dao-suiyuan-xiyuan-bupanyuan-illustrations/03-bupanyuan.png)
 
 “攀缘”，最累人的地方，是把自己的价值交到了别人手里。
 

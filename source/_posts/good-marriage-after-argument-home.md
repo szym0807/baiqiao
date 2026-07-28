@@ -24,8 +24,6 @@ source_file: "wechat_article_good-marriage-after-argument-home.md"
 
 ## 01 会吵，不等于会伤
 
-![什么是好婚姻？不是不吵架，是吵完架还想回家 · 01](/assets/good-marriage-after-argument-home-illustrations/01-behavior-not-character.png)
-
 有些争吵，是在争输赢；有些争吵，是在表达“我也希望你理解我”。
 
 同样是不满，一句“你从来不顾家”，容易让人立刻防御；换成“你连续几天晚回家，我一个人处理家里的事，心里很累”，对方才知道问题究竟在哪里。
@@ -37,8 +35,6 @@ source_file: "wechat_article_good-marriage-after-argument-home.md"
 可以试着这样说：“刚才那句话让我很难受，我想先把这件事说清楚。”这比翻出一串罪状，更容易让人听进去。
 
 ## 02 暂停可以，失联不行
-
-![什么是好婚姻？不是不吵架，是吵完架还想回家 · 02](/assets/good-marriage-after-argument-home-illustrations/02-pause-with-return.png)
 
 人在气头上时，先停一停并不是冷暴力。有的人需要半小时平复，有的人要出去走一圈，等声音不再发抖，才有能力继续沟通。
 
@@ -52,8 +48,6 @@ source_file: "wechat_article_good-marriage-after-argument-home.md"
 
 ## 03 只谈眼前，不翻旧账
 
-![什么是好婚姻？不是不吵架，是吵完架还想回家 · 03](/assets/good-marriage-after-argument-home-illustrations/03-one-issue-at-a-time.png)
-
 很多夫妻原本只是在争一件小事，最后却把五年前的失约、三年前的争执、对方父母的态度全都翻出来。
 
 旧账一多，眼前的问题就不见了。两个人不再讨论“这次该怎么办”，而是在证明“你一直都不好”。说到最后，谁也记不得争吵从哪里开始，只记得自己被否定得很彻底。
@@ -65,8 +59,6 @@ source_file: "wechat_article_good-marriage-after-argument-home.md"
 如果某件旧事总被提起，说明它可能还没有得到回应。与其在每次争吵时顺手丢出来，不如另找一个平静的时间，专门把它谈清楚。
 
 ## 04 吵完以后，记得把门打开
-
-![什么是好婚姻？不是不吵架，是吵完架还想回家 · 04](/assets/good-marriage-after-argument-home-illustrations/04-repair-after-conflict.png)
 
 好婚姻不是每次都能立刻和好，而是双方愿意为修复做一点具体的事。
 

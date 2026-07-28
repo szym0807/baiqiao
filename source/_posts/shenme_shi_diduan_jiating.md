@@ -10,7 +10,7 @@ tags:
 generated_by: baiqiao-sync
 source_file: "wechat_article_shenme_shi_diduan_jiating.md"
 ---
-![什么是低端家庭？去他们家跟他们一起吃一顿就知道了](/assets/shenme_shi_diduan_jiating-illustrations/00-cover-before-title.png)
+![什么是低端家庭？去他们家跟他们一起吃一顿就知道了](/assets/shenme_shi_diduan_jiating-illustrations/00-cover.png)
 
 有人把“低端家庭”理解成没钱、房子小、饭菜简单。
 
@@ -30,8 +30,6 @@ source_file: "wechat_article_shenme_shi_diduan_jiating.md"
 
 ## 01 饭桌上的规矩，藏着一个家的底色
 
-![什么是低端家庭？去他们家跟他们一起吃一顿就知道了 · 01](/assets/shenme_shi_diduan_jiating-illustrations/01-fanzhuo-guiju.png)
-
 去一个人家里吃饭，先别急着看他家装修得怎么样。
 
 看看开饭时，谁在等谁；看看孩子夹菜有没有人提醒；看看长辈说话时，晚辈是不是一脸不耐烦；再看看有没有人把手机举得比筷子还忙。
@@ -47,8 +45,6 @@ source_file: "wechat_article_shenme_shi_diduan_jiating.md"
 一张饭桌的规矩不大，却能让一个人明白，自己不是世界的中心。
 
 ## 02 把最坏的脾气留给家里，是一个家衰败的开始
-
-![什么是低端家庭？去他们家跟他们一起吃一顿就知道了 · 02](/assets/shenme_shi_diduan_jiating-illustrations/02-qingxu-chukou.png)
 
 有些人，在外面见谁都客气。
 
@@ -68,8 +64,6 @@ source_file: "wechat_article_shenme_shi_diduan_jiating.md"
 
 ## 03 没有边界感的家，人人都活得很累
 
-![什么是低端家庭？去他们家跟他们一起吃一顿就知道了 · 03](/assets/shenme_shi_diduan_jiating-illustrations/03-bianjie.png)
-
 还有一种饭局，看着热闹，实则最让人窒息。
 
 你刚坐下，就有人问工资多少、存款多少、什么时候生孩子；你带来的伴侣刚说两句话，就有人开始评头论足；孩子吃得慢一点，也有人插手管教。
@@ -85,8 +79,6 @@ source_file: "wechat_article_shenme_shi_diduan_jiating.md"
 饭桌上少问一句逼人的话，少开一个伤人的玩笑，往往比说十句“我是为你好”更有教养。
 
 ## 04 家风好不好，不看排场，看人能不能舒服
-
-![什么是低端家庭？去他们家跟他们一起吃一顿就知道了 · 04](/assets/shenme_shi_diduan_jiating-illustrations/04-shufu-de-jia.png)
 
 一个家庭最可贵的地方，不是逢年过节摆了多大的桌，也不是亲戚朋友来了多热闹。
 

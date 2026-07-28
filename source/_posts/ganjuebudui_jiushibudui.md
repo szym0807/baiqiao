@@ -32,8 +32,6 @@ source_file: "wechat_article_ganjuebudui_jiushibudui.md"
 
 ## 01 你的身体，比你的嘴更诚实
 
-![你感觉不对的人，就是不对 · 01](/assets/ganjuebudui_jiushibudui-illustrations/01-shenti-baojing.png)
-
 有些人一靠近你，你就会下意识紧绷。
 
 他说话时，你不敢放松；他发消息来，你心里先沉一下；他约你见面，你还没出门，已经开始想怎么应付。
@@ -54,8 +52,6 @@ source_file: "wechat_article_ganjuebudui_jiushibudui.md"
 
 ## 02 让你反复解释的人，多半不值得深交
 
-![你感觉不对的人，就是不对 · 02](/assets/ganjuebudui_jiushibudui-illustrations/02-fanfu-jieshi.png)
-
 一段关系最累的地方，不是偶尔有误会，而是你总在解释。
 
 你说一句话，他要曲解；你拒绝一次，他要上纲上线；你保持沉默，他说你冷漠；你说出感受，他说你想太多。
@@ -75,8 +71,6 @@ source_file: "wechat_article_ganjuebudui_jiushibudui.md"
 如果一个人总让你陷入解释、内疚和自责里，这段关系就已经在消耗你。
 
 ## 03 总让你觉得欠他的，是关系里的暗坑
-
-![你感觉不对的人，就是不对 · 03](/assets/ganjuebudui_jiushibudui-illustrations/03-kuiqian-shengzi.png)
 
 还有一种人，更难察觉。
 
@@ -101,8 +95,6 @@ source_file: "wechat_article_ganjuebudui_jiushibudui.md"
 你欠他的，也许没有你想的那么多。
 
 ## 04 感觉不对，就先退一步
-
-![你感觉不对的人，就是不对 · 04](/assets/ganjuebudui_jiushibudui-illustrations/04-tuiyibu.png)
 
 很多人吃亏，不是因为看不出来，而是因为不敢相信自己看出来了。
 

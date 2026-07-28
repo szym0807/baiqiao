@@ -9,6 +9,7 @@
     "deploy": "hexo deploy",
     "dev": "node tools/sync-baiqiao.mjs && hexo server",
     "github:build": "node tools/sync-baiqiao.mjs && node tools/github-pages-config.mjs && hexo generate --config _config.yml,_config.github.yml",
+    "posts:publish": "node tools/publish-baiqiao.mjs",
     "posts:sync": "node tools/sync-baiqiao.mjs",
     "server": "hexo server"
   },

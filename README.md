@@ -18,6 +18,14 @@ corepack pnpm run dev
 corepack pnpm run posts:sync
 ```
 
+同步文章、提交并推送到 GitHub：
+
+```powershell
+corepack pnpm run posts:publish -- --title "文章标题"
+```
+
+白乔流程在成功创建公众号草稿后会自动执行这条发布命令。
+
 生成可发布的静态网站：
 
 ```powershell

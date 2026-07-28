@@ -1,0 +1,69 @@
+:root {
+  --baiqiao-accent: #d36b48;
+  --baiqiao-paper: #fffdf9;
+}
+
+body {
+  background: #f6f2eb;
+}
+
+.header {
+  background: rgba(255, 253, 249, .92);
+  backdrop-filter: blur(12px);
+}
+
+.main-inner {
+  margin-top: 24px;
+}
+
+.content-wrap {
+  background: var(--baiqiao-paper);
+  border-radius: 16px;
+  box-shadow: 0 12px 36px rgba(67, 50, 39, .08);
+}
+
+.post-title-link::before {
+  background-color: var(--baiqiao-accent);
+}
+
+.post-body {
+  color: #3d3834;
+  font-size: 17px;
+  line-height: 2;
+}
+
+.post-body h2 {
+  border-left: 4px solid var(--baiqiao-accent);
+  padding-left: 14px;
+}
+
+.post-body img {
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(67, 50, 39, .1);
+}
+
+.btn {
+  border-color: var(--baiqiao-accent);
+  color: var(--baiqiao-accent);
+  border-radius: 999px;
+}
+
+.btn:hover {
+  background: var(--baiqiao-accent);
+  border-color: var(--baiqiao-accent);
+}
+
+@media (max-width: 767px) {
+  .main-inner {
+    margin-top: 0;
+  }
+
+  .content-wrap {
+    border-radius: 0;
+  }
+
+  .post-body {
+    font-size: 16px;
+    line-height: 1.9;
+  }
+}

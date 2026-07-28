@@ -1,0 +1,68 @@
+# NexT theme overrides. Keeping custom settings here makes theme upgrades safe.
+scheme: Gemini
+darkmode: true
+
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+
+menu_settings:
+  icons: true
+  badges: true
+
+site_state: true
+
+avatar:
+  url:
+  rounded: true
+  rotated: false
+
+footer:
+  since: 2026
+  icon:
+    name: fa fa-feather-alt
+    animated: true
+    color: "#d36b48"
+
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at:
+    enable: true
+    another_day: true
+  categories: true
+
+codeblock:
+  copy_button:
+    enable: true
+    show_result: true
+
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+reading_progress:
+  enable: true
+  color: "#d36b48"
+  height: 3px
+
+bookmark:
+  enable: true
+  color: "#d36b48"
+  save: auto
+
+mediumzoom: true
+pjax: true
+
+local_search:
+  enable: true
+  top_n_per_article: 3
+  unescape: true
+  preload: false
+
+custom_file_path:
+  style: source/_data/styles.styl

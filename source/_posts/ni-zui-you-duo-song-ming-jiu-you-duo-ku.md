@@ -15,6 +15,8 @@ source_file: "wechat_article_ni-zui-you-duo-song-ming-jiu-you-duo-ku.md"
 文丨白乔  
 图丨白乔
 
+![一个人在辽阔雾野中守住自己的方向](assets/ni-zui-you-duo-song-ming-jiu-you-duo-ku-illustrations/00-cover.png)
+
 有些人并没有坏心，只是心里藏不住事，嘴上也没有把门。
 
 同事刚说的烦恼，转身便成了饭桌谈资；朋友托付的秘密，聊到兴头上就脱口而出；自己家里的收入、矛盾和打算，也恨不得一股脑交代清楚。
@@ -35,7 +37,7 @@ source_file: "wechat_article_ni-zui-you-duo-song-ming-jiu-you-duo-ku.md"
 
 很多关系并非毁于大事，而是毁于一句不该说的话。嘴上痛快一时，事后解释十次，也未必能把失去的信任找回来。
 
-![远处的人站在雾中边界前，象征开口前的停顿](/assets/ni-zui-you-duo-song-ming-jiu-you-duo-ku-illustrations/01-boundary.png)
+![远处的人站在雾中边界前，象征开口前的停顿](assets/ni-zui-you-duo-song-ming-jiu-you-duo-ku-illustrations/01-boundary.png)
 
 ## 02 真正聪明的人，懂得让话有去处
 
@@ -47,7 +49,7 @@ source_file: "wechat_article_ni-zui-you-duo-song-ming-jiu-you-duo-ku.md"
 
 但少说不是故作高深，更不是遇到误会也不解释。需要沟通责任、表达感受、保护权益时，仍要把话说清楚。该说的时候不含糊，不该说的时候不多嘴，这才是分寸。
 
-![小人物沿着清晰的窄路前行，象征让语言有方向](/assets/ni-zui-you-duo-song-ming-jiu-you-duo-ku-illustrations/02-purpose.png)
+![小人物沿着清晰的窄路前行，象征让语言有方向](assets/ni-zui-you-duo-song-ming-jiu-you-duo-ku-illustrations/02-purpose.png)
 
 ## 03 守住口舌，也守住自己的生活
 
